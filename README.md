@@ -12,10 +12,14 @@
 ```
 
 # 2) English Study
-## Translator (Alternative)
+## Translator (25 Alternative) | Sentence Learning
 
 ```markdown
 
 ```
 
-## 
+## Vocabulary |
+
+```markdown
+
+```
