@@ -1,6 +1,21 @@
 
-# leetcode-helper
+# 1) Job Hunting
+## leetcode-helper
 
-# Translator
+```markdown
 
-# 
+```
+
+## ML Sys Design
+
+```markdown
+```
+
+# 2) English Study
+## Translator (Alternative)
+
+```markdown
+
+```
+
+## 
